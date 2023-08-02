@@ -33,3 +33,10 @@ body::before{
   .gallery,.md-4 {
     padding: 15px; /* Adjust this value to control the spacing between images */
   }
+  
+  .rounded-circle{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+  }
